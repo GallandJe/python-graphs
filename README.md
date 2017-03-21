@@ -1,2 +1,2 @@
 # python-graphs
-Test grahs with pyton
+Test graphs with pyton
